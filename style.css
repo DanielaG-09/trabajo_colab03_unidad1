@@ -1,0 +1,22 @@
+body{
+
+    text-align: center;   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0
+    font-family: Arial, sans-serif;
+    background-color: darkblue;
+    color: gray;
+    }
+    h1{
+        text-align: center;
+        background-color: rgb(167, 253, 167);
+        color: darkgreen;
+    }
+    h2{
+        text-align: center;
+        background-color: rgb(103, 238, 193);
+        color: brown;
+    }
