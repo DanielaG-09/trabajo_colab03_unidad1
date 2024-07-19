@@ -1,22 +1,19 @@
 body
 {
-    text-align: center;   
+    text-align: center;
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
-    margin: 0
-    font-family: Arial, sans-serif;
-    background-color: darkblue;
-    color: gray;
-    }
+    margin: 0;
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: antiquewhite;
+    color: black;
+}
 h1{
-        text-align: center;
-        background-color: rgb(167, 253, 167);
-        color: darkgreen;
-    }
+    background-color: darkgreen;
+    color: gray;
+}
 h2{
-        text-align: center;
-        background-color: rgb(103, 238, 193);
-        color: brown;
-    }
+    background-color: brown;
+}
